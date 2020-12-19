@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_item"
+        android:title="高等数学" />
+    <item
+        android:id="@+id/add_item2"
+        android:title="线性代数" />
+    <item
+        android:id="@+id/add_item4"
+        android:title="复变函数" />
+    <item
+        android:id="@+id/add_item5"
+        android:title="模拟电路" />
+    <item
+        android:id="@+id/add_item6"
+        android:title="计算机导论" />
+    <item
+        android:id="@+id/add_item7"
+        android:title="大学物理" />
+    <item
+        android:id="@+id/add_item8"
+        android:title="诺克萨斯之手" />
+</menu>

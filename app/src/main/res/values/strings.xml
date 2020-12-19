@@ -2,6 +2,8 @@
     <string name="app_name">My Application</string>
     <string name="button">进入</string>
     <string name="button2">闪退</string>
+    <string name="button3">返回</string>
+    <string name="button4">打开网址</string>
 
 
 </resources>
